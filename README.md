@@ -1,4 +1,4 @@
-# 2025-01-09-git
+# 01-09-2025-git
 DSCI 310
 
 - `git clone`: Does a one-time download from Github to your local computer.
