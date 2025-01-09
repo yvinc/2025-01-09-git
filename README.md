@@ -7,4 +7,4 @@ DSCI 310
         - The parent folder should not be under version control.
     - Can use `cd ..` and `git status` to check whether the parent folder was already under git version control.
 
-
+- ;P practice the add-stage-commit cycle!
