@@ -12,3 +12,6 @@ DSCI 310
 - git status: tells you what's happening in your current git repo
 - git add <file>: adds <file> to the staging already
 - git commit -m "...msg": creates a commit (aka a snapeshot) with the changes in the staging area with the message you supplied.
+- 🫨
+- git push <where> <what>: pushes changes from local machine to remote (where) using the branch (what).
+- git pull <where> <what>: brings changes from the remote to the local machine.
